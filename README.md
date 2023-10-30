@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">Oá, seja bem-vindo 👋</h1>
+<h1 align="center">Olá, seja bem-vindo 👋</h1>
 
 ###
 

@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">- 🏫 Instituto Federal do Paraná<br>- ⚡Estudando para ser um full-stack web developer</p>
+<p align="left">- 🏫 Instituto Federal do Paraná<br>- ⚡Estudando para ser um web developer</p>
 
 ###
 
